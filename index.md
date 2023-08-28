@@ -1,3 +1,12 @@
+# Sean Kim's First CS193 Homework
+
+Some of my favorite things about CS193:
+- The content will be applicable to CS classes I will take in the future
+- It doesn't have midterms or finals
+- It doesn't require us to purchase a textbook
+- It doesn't take much time since it only meets once a week
+- It feels more casual with students teaching the class
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
